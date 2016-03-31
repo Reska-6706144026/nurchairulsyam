@@ -8,6 +8,7 @@ public class Jurnal {
 
     public static void main(String[] args) {
         System.out.println("Jumlah Deret Fibonacci:");
+        System.out.println("sudah saya edit rul");
         Scanner inputFibonacci = new Scanner(System.in);
         
         int fibonacciCount = inputFibonacci.nextInt();
